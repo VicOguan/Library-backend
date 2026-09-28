@@ -1,7 +1,6 @@
 package com.tutorial.study.controller;
 
 import com.tutorial.study.dto.BorrowRecordResponse;
-import com.tutorial.study.entity.BorrowRecord;
 import com.tutorial.study.service.BookService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
